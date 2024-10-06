@@ -9,7 +9,7 @@ interface IInputOutput
     public static string Name;
     public void Age()
     {
-
+        Console.WriteLine("My age is: ");
     }
 }
 
